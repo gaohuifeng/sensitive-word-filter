@@ -30,6 +30,6 @@ Keyword list from https://github.com/observerss/textfilter
 ### License
 MIT
 
-[npm-url]: https://npmjs.org/package/text-censor
-[npm-image]: https://img.shields.io/npm/v/text-censor.svg
-[NPM Version]: 1.0.0
+[npm-url]: https://npmjs.org/package/word-sensitive
+[npm-image]: https://img.shields.io/npm/v/word-sensitive.svg
+[NPM Version]: 0.0.1
