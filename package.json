@@ -1,6 +1,6 @@
 {
-  "name": "text-censor",
-  "version": "1.0.2",
+  "name": "word-sensitive",
+  "version": "0.0.1",
   "description": "Censor politically-sensitive words in China. 国内敏感词过滤器。",
   "main": "index.js",
   "scripts": {
@@ -8,11 +8,13 @@
   },
   "keywords": [
     "censor",
-    "text-filter",
+    "word-sensitive",
+    "sensitive",
+    "forbidden"
     "GWF",
     "china",
     "敏感词"
   ],
-  "author": "kzz555",
+  "author": "gao",
   "license": "MIT"
 }
