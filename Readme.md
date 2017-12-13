@@ -8,7 +8,7 @@ A simple&basic text filter that is under censor of GFW, with DFA.
 
 ### Usage
 
-    var wc = require('word-sensitive')
+    var wc = require('sensitive-word-filter')
     var string = "习近平大大,Ur so sexy babe!"
     string = wc.filter(string) 
     console.log(string) // ***大大,Ur so ***y babe!
@@ -30,6 +30,6 @@ Keyword list from https://github.com/observerss/textfilter
 ### License
 MIT
 
-[npm-url]: https://npmjs.org/package/word-sensitive
-[npm-image]: https://img.shields.io/npm/v/word-sensitive.svg
-[NPM Version]: 0.0.1
+[npm-url]: https://npmjs.org/package/sensitive-word-filter
+[npm-image]: https://img.shields.io/npm/v/sensitive-word-filter.svg
+[NPM Version]: 1.0.0
