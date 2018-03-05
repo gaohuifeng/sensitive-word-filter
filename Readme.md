@@ -8,7 +8,7 @@ A simple&basic text filter that is under censor of GFW, with DFA.
 
 ### Install
 
-$ npm install --save prompts
+$ npm install sensitive-word-filter
 
 ### Usage
 
