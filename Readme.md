@@ -6,6 +6,10 @@ A simple&basic text filter that is under censor of GFW, with DFA.
 
 为nodejs提供的简单GFW敏感词过滤器，使用DFA实现。
 
+### Install
+
+$ npm install --save prompts
+
 ### Usage
 
     var wc = require('sensitive-word-filter')
