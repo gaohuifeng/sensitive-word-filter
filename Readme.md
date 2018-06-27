@@ -35,5 +35,5 @@ Keyword list from https://github.com/observerss/textfilter
 MIT
 
 [npm-url]: https://npmjs.org/package/sensitive-word-filter
-[npm-image]: https://img.shields.io/npm/v/sensitive-word-filter.svg
+[npm-image]: https://img.shields.io/npm/v/sensitive-word-filter.svg 
 [NPM Version]: 1.0.2
