@@ -28,6 +28,7 @@ Under 1ms for a 10-20 words sentence. Around 10ms for 1000 words.
 10-20字的短句在1ms以内替换完成，1000字左右需要10ms左右
 
 
+
 ### Thanks
 Keyword list from https://github.com/observerss/textfilter
 
