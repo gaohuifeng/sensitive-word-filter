@@ -1,5 +1,8 @@
 
-[![NPM Version][npm-image]][npm-url]
+# sensitive-word-filter
+[![NPM version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads][downloads-image]][downloads-url]
 
 ### Introduction
 A simple&basic text filter that is under censor of GFW, with DFA.
@@ -37,4 +40,9 @@ MIT
 
 [npm-url]: https://npmjs.org/package/sensitive-word-filter
 [npm-image]: https://img.shields.io/npm/v/sensitive-word-filter.svg 
-[NPM Version]: 1.0.2
+
+[travis-url]: https://travis-ci.org/gaohuifeng/sensitive-word-filter
+[travis-image]: https://travis-ci.org/gaohuifeng/sensitive-word-filter.svg?branch=master
+
+[downloads-url]: https://npmjs.org/package/sensitive-word-filter
+[downloads-image]: https://img.shields.io/github/downloads/atom/atom/latest/total.svg
