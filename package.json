@@ -4,8 +4,11 @@
   "description": "Censor politically-sensitive words in China. 国内敏感词过滤器。",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha test/index"
   },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },  
   "keywords": [
     "word-sensitive",
     "sensitive word",
